@@ -1,0 +1,14 @@
+body {
+  font-family: "Inter", sans-serif;
+  font-family: "Poppins", sans-serif;
+  background: rgb(5, 105, 99);
+  background: linear-gradient(
+    45deg,
+    rgba(5, 105, 99, 0.9753151260504201) 40%,
+    rgba(5, 105, 99, 1) 46%,
+    rgba(5, 105, 99, 0.9809173669467787) 60%,
+    rgba(5, 105, 99, 0.9725140056022409) 69%,
+    rgba(5, 105, 99, 1) 78%,
+    rgba(5, 105, 94, 0.9837184873949579) 79%
+  );
+}
