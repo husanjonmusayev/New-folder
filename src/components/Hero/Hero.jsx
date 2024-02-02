@@ -27,7 +27,7 @@ export default function Hero() {
             Yaratilagan saytlarni Yutube kanalimda ko'rib qayta yaratishingiz
             mumkin Omad !
           </h3>
-          <a href="www@husanjonmusayev">
+          <a href="https://www.youtube.com/channel/UCW9iEYml8rvYAkazMDXTlNg">
             <img src="/youtube.png" alt="youtube_icon" />
           </a>
         </div>
